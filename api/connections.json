@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0.0",
+  "siteUrl": "https://alex.indiering.social",
+  "did": "did:web:alex.indiering.social",
+  "updatedAt": "2026-10-21T20:17:15.479Z",
+  "friends": [],
+  "webrings": [
+    {
+      "id": "ring-indie-craft",
+      "name": "Indie Craft & Photo Ring",
+      "hubUrl": "https://ring.indiecraft.org/webring-hub.json",
+      "description": "A federated ring of independent photographers, makers, and digital gardeners.",
+      "prevSiteUrl": "https://maya.indiering.social",
+      "nextSiteUrl": "https://devon.indiering.social",
+      "joinedAt": "2026-10-21T19:14:12.817Z"
+    }
+  ],
+  "endorsements": [],
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-10-21T20:17:15.480Z",
+    "verificationMethod": "did:web:alex.indiering.social#key-1",
+    "signatureValue": "5wtDWpaHmgqBxw9_7sRTP-ojBtInsuq0AcXJTk2Dfyu-3NdXI6cf66luUR3Gqz8IFC59anM-y_L4fsgAKy0-Bg"
+  }
+}

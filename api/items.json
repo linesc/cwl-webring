@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0.0",
+  "siteUrl": "https://alex.indiering.social",
+  "did": "did:web:alex.indiering.social",
+  "updatedAt": "2026-10-21T20:17:15.479Z",
+  "items": [
+    {
+      "id": "item-welcome-post",
+      "canonicalUrl": "https://alex.indiering.social/api/items.json#item-item-welcome-post",
+      "type": "post",
+      "title": "Building My Own Static Social Wall on the IndieWeb",
+      "targetUrl": "https://alex.indiering.social/api/items.json#item-welcome-post",
+      "category": "status",
+      "commentary": "Just set up my self-contained profile wall! No algorithms, no cloud database lock-in—just local SQLite authoring, Ed25519 signatures, and pull-federated comments across our friend ring.",
+      "mediaUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "tags": [
+        "status",
+        "indieweb",
+        "webring"
+      ],
+      "createdAt": "2026-10-21T19:14:12.817Z"
+    },
+    {
+      "id": "item-posse-manifesto",
+      "canonicalUrl": "https://alex.indiering.social/api/items.json#item-item-posse-manifesto",
+      "type": "share",
+      "title": "Why Small Static Websites & Webrings Are Returning",
+      "targetUrl": "https://indieweb.org/POSSE",
+      "targetAuthorUrl": "https://indieweb.org",
+      "targetAuthorName": "IndieWeb Community",
+      "category": "article",
+      "commentary": "Owning your own digital home and syndicating outward via clean JSON schemas is the antidote to algorithmic burnout.",
+      "mediaUrl": "",
+      "rating": 5,
+      "tags": [
+        "indieweb",
+        "federation",
+        "webrings"
+      ],
+      "createdAt": "2026-10-21T19:14:12.817Z"
+    },
+    {
+      "id": "item-synth-album",
+      "canonicalUrl": "https://alex.indiering.social/api/items.json#item-item-synth-album",
+      "type": "like",
+      "title": "Music for Subterranean Greenhouses (Ambient Tape Loop LP)",
+      "targetUrl": "https://maya.indiering.social/api/items.json#item-ambient-tape",
+      "targetAuthorUrl": "https://maya.indiering.social",
+      "targetAuthorName": "Maya Lin",
+      "category": "music",
+      "commentary": "Been listening to this modular synth tape study non-stop while editing photos.",
+      "mediaUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "tags": [
+        "ambient",
+        "synth",
+        "music"
+      ],
+      "createdAt": "2026-10-21T19:14:12.817Z"
+    },
+    {
+      "id": "item-camera-rec",
+      "canonicalUrl": "https://alex.indiering.social/api/items.json#item-item-camera-rec",
+      "type": "recommendation",
+      "title": "Olympus OM-1 Mechanical 35mm SLR",
+      "targetUrl": "https://camerawiki.org/olympus-om1",
+      "targetAuthorName": "Camera Wiki",
+      "category": "gear",
+      "commentary": "Fully mechanical shutter, huge bright viewfinder, and compact enough to carry on every trail.",
+      "mediaUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "tags": [
+        "camera",
+        "film",
+        "photography"
+      ],
+      "createdAt": "2026-10-21T19:14:12.817Z"
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-10-21T20:17:15.480Z",
+    "verificationMethod": "did:web:alex.indiering.social#key-1",
+    "signatureValue": "igMErdK0nx3tkT_kKmDb6naWom_LIQYq1sEAxx0MUjxGxZtWbF9HO0QiABLR2KqcW2l1Qu-BOF7juLvGb9e5BA"
+  }
+}

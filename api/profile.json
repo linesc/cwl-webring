@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "did": "did:web:alex.indiering.social",
+  "siteUrl": "https://alex.indiering.social",
+  "handle": "alex.indiering.social",
+  "displayName": "Alex Rivera",
+  "tagline": "Digital gardener, analog photographer & webring explorer",
+  "bio": "Welcome to my self-contained corner of the web! Everything here is hosted as static JSON & HTML, managed locally from my desktop studio, and federated across my friend ring.",
+  "location": "Pacific Northwest",
+  "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+  "bannerUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+  "interests": [
+    "IndieWeb",
+    "Photography",
+    "Self-Hosting",
+    "Decentralized Web",
+    "Sci-Fi"
+  ],
+  "customLinks": [
+    {
+      "label": "My Webring Feed",
+      "url": "/api/manifest.json"
+    },
+    {
+      "label": "DID Identity",
+      "url": "/.well-known/did.json"
+    }
+  ],
+  "theme": "neo-webring",
+  "atprotoHandle": "alex.bsky.social",
+  "updatedAt": "2026-10-21T20:17:15.479Z",
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-10-21T20:17:15.479Z",
+    "verificationMethod": "did:web:alex.indiering.social#key-1",
+    "signatureValue": "29GQX2DUTMmx8cI-3Qad4Wq-yu_dqyC0Vm6BDgSqKT4PRP4C6T4Hyf9MCTeCka3VGlqwlgvZ5gguf-IrSbJ4BQ"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0.0",
+  "siteUrl": "https://alex.indiering.social",
+  "did": "did:web:alex.indiering.social",
+  "updatedAt": "2026-10-21T20:17:15.479Z",
+  "endpoints": {
+    "did": "/.well-known/did.json",
+    "profile": "/api/profile.json",
+    "albums": "/api/albums.json",
+    "items": "/api/items.json",
+    "connections": "/api/connections.json"
+  },
+  "stats": {
+    "albumCount": 1,
+    "photoCount": 2,
+    "itemCount": 4,
+    "friendCount": 0,
+    "webringCount": 1
+  },
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-10-21T20:17:15.480Z",
+    "verificationMethod": "did:web:alex.indiering.social#key-1",
+    "signatureValue": "2p78XliW8H7kgXRqnxKmuxnOn4VIWf8Shuj3U9b70DqwFpjsfQtaEGj5_EOQfSAKGFmczT106BZike3uGVI1Bw"
+  }
+}
