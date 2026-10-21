@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1.0.0",
-  "siteUrl": "https://alex.indiering.social",
-  "did": "did:web:alex.indiering.social",
-  "updatedAt": "2026-10-21T20:17:15.479Z",
+  "siteUrl": "https://linesc.github.io/cwl-webring",
+  "did": "did:web:linesc.github.io:cwl-webring",
+  "updatedAt": "2026-10-21T23:07:57.649Z",
   "albums": [
     {
       "id": "album-pnw-trails",
-      "canonicalUrl": "https://alex.indiering.social/api/albums.json#album-album-pnw-trails",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#album-album-pnw-trails",
       "title": "Misty Morning Trails",
       "description": "35mm film and digital snapshots from autumn hikes around old-growth forests and coastal headlands.",
       "coverUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&auto=format&fit=crop&q=80",
@@ -16,50 +16,15 @@
         "pnw",
         "35mm"
       ],
-      "photos": [
-        {
-          "id": "photo-sunbeams",
-          "canonicalUrl": "https://alex.indiering.social/api/albums.json#photo-photo-sunbeams",
-          "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&auto=format&fit=crop&q=80",
-          "thumbUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&auto=format&fit=crop&q=80",
-          "caption": "First light breaking through the Douglas fir canopy at 6:30 AM.",
-          "altText": "First light breaking through the Douglas fir canopy at 6:30 AM.",
-          "tags": [
-            "forest",
-            "sunlight",
-            "morning"
-          ],
-          "width": 1200,
-          "height": 800,
-          "takenAt": "2026-10-21T19:14:12.817Z",
-          "createdAt": "2026-10-21T19:14:12.817Z"
-        },
-        {
-          "id": "photo-coast-fog",
-          "canonicalUrl": "https://alex.indiering.social/api/albums.json#photo-photo-coast-fog",
-          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&auto=format&fit=crop&q=80",
-          "thumbUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=400&auto=format&fit=crop&q=80",
-          "caption": "Ridge line rolling fog before the rain moved in.",
-          "altText": "Ridge line rolling fog before the rain moved in.",
-          "tags": [
-            "fog",
-            "mountains",
-            "landscape"
-          ],
-          "width": 1200,
-          "height": 800,
-          "takenAt": "2026-10-21T19:14:12.817Z",
-          "createdAt": "2026-10-21T19:14:12.817Z"
-        }
-      ],
+      "photos": [],
       "createdAt": "2026-10-21T19:14:12.817Z",
       "updatedAt": "2026-10-21T19:14:12.817Z"
     }
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-21T20:17:15.479Z",
-    "verificationMethod": "did:web:alex.indiering.social#key-1",
-    "signatureValue": "2rkdYs5EtYADZ1kykbpOpRXEFZzYCsX6vdhk_X2uUiDC7m3p1_T1ozkGdiWhqhwL8i2_kdQnJEAAre43Ny2KDQ"
+    "created": "2026-10-21T23:07:57.649Z",
+    "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
+    "signatureValue": "yhuyrFw03yE641WAooogGuXJdAwbSsevrZ-sbs3TeT0rqwZ7LnLgOoi6KpI7h1dCaa7mui-jiXOCI_Dq5dtmCg"
   }
 }

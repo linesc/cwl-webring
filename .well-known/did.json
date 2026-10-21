@@ -3,16 +3,16 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/ed25519-2020/v1"
   ],
-  "id": "did:web:alex.indiering.social",
+  "id": "did:web:linesc.github.io:cwl-webring",
   "alsoKnownAs": [
-    "at://alex.bsky.social",
-    "https://alex.indiering.social"
+    "at://alex.indiering.social",
+    "https://linesc.github.io/cwl-webring"
   ],
   "verificationMethod": [
     {
-      "id": "did:web:alex.indiering.social#key-1",
+      "id": "did:web:linesc.github.io:cwl-webring#key-1",
       "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:alex.indiering.social",
+      "controller": "did:web:linesc.github.io:cwl-webring",
       "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAKfWp5g3dZbympiDeu7BZE8amqlTIH4MoWDNFcYQTZjg=\n-----END PUBLIC KEY-----\n"
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "#webring",
       "type": "WebringProfileService",
-      "serviceEndpoint": "https://alex.indiering.social/api/manifest.json"
+      "serviceEndpoint": "https://linesc.github.io/cwl-webring/api/manifest.json"
     },
     {
       "id": "#atproto_pds",
