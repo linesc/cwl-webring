@@ -2,22 +2,49 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-10-22T13:16:42.519Z",
-  "friends": [],
+  "updatedAt": "2026-10-22T13:41:50.915Z",
+  "friends": [
+    {
+      "id": "friend-94c35676",
+      "siteUrl": "https://bitphr3ak.net/social",
+      "did": "did:web:bitphr3ak.net:social",
+      "displayName": "Bitphr3ak",
+      "handle": "bitphr3ak.net",
+      "avatarUrl": "https://bitphr3ak.net/_astro/character-serious.BU6AfZ9x_Z1oDI47.webp",
+      "bio": "",
+      "relationship": [],
+      "visibility": "public",
+      "addedAt": "2026-10-22T13:40:09.179Z"
+    },
+    {
+      "id": "friend-56c16b3c",
+      "siteUrl": "https://lines2code.com/social",
+      "did": "did:web:lines2code.com:social",
+      "displayName": "Corey Lines",
+      "handle": "lines2code.com",
+      "avatarUrl": "https://lines2code.com/wp-content/uploads/2026/04/472790698_10170503894710595_2800355422065316916_n.jpg?w=300&auto=format&fit=crop&q=80",
+      "bio": "",
+      "relationship": [],
+      "visibility": "public",
+      "addedAt": "2026-10-22T13:37:44.811Z"
+    }
+  ],
   "webrings": [
     {
       "id": "ring-indie-craft",
       "name": "Science, Technology & Society",
       "hubUrl": "",
       "description": "A federated ring of those interested in science, technology & society",
+      "prevSiteUrl": "https://bitphr3ak.net/social.",
+      "nextSiteUrl": "https://lines2code.com/social",
       "joinedAt": "2026-10-21T19:14:12.817Z"
     }
   ],
   "endorsements": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-22T13:16:42.520Z",
+    "created": "2026-10-22T13:41:50.915Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "7k5YHRCh8YP1XZGOxyoc48bF4vlIKTbg4HKcCJZQvAjHo9EVt78zpsKG6gObrMxjPvGDpAzk5DMXxrBOrcSsDQ"
+    "signatureValue": "W1Glm-Pix0RylOWwzjx1ZkFm5OOXTu8vmTEebaMBsDLKYxB_xQuSRoBYZciDWQIWBpuNJSXLRRdtW_e45i36Cw"
   }
 }

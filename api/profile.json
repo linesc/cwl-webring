@@ -32,11 +32,11 @@
   ],
   "theme": "neo-webring",
   "atprotoHandle": "",
-  "updatedAt": "2026-10-22T13:16:42.519Z",
+  "updatedAt": "2026-10-22T13:41:50.915Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-22T13:16:42.519Z",
+    "created": "2026-10-22T13:41:50.915Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "b5jqYFwjzsxrQVXP_bUmYOf8dmsrz_rSUFSra3eGClsxARz57srnVDw7BoRm-PU4zv219f_VUC_adTXWQ2WQAQ"
+    "signatureValue": "HYMCdm71tW1YPvBFHDR0PYKvA-6MTM8DSZNsOU0VUgOU4Cq6nwoINwTn7uhS_fhtqkEc6dfBWVHpw2knFpiTCA"
   }
 }
