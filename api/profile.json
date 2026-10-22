@@ -3,18 +3,22 @@
   "did": "did:web:linesc.github.io:cwl-webring",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "handle": "alex.indiering.social",
-  "displayName": "Corey Lines (REDspace)",
+  "displayName": "Corey Lines",
   "tagline": "Senior Quality Engineer, Web Application Developer, Sheppard of Agents",
   "bio": "Welcome to my self-contained corner of the web! Everything here is hosted as static JSON & HTML, managed locally from my desktop studio, and federated across my friend ring.",
   "location": "Pacific Northwest",
   "avatarUrl": "https://lines2code.com/wp-content/uploads/2026/04/472790698_10170503894710595_2800355422065316916_n.jpg?w=300&auto=format&fit=crop&q=80",
   "bannerUrl": "https://linesc.github.io/cwl-webring/cover-image.jpeg",
   "interests": [
-    "IndieWeb",
-    "Photography",
-    "Self-Hosting",
-    "Decentralized Web",
-    "Sci-Fi"
+    "Technology",
+    "Web Development",
+    "Science",
+    "Sociology",
+    "Philosophy",
+    "Design",
+    "Surfing",
+    "Mountain Biking",
+    "Hiking"
   ],
   "customLinks": [
     {
@@ -28,11 +32,11 @@
   ],
   "theme": "neo-webring",
   "atprotoHandle": "",
-  "updatedAt": "2026-10-21T23:08:29.736Z",
+  "updatedAt": "2026-10-22T13:16:42.519Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-21T23:08:29.737Z",
+    "created": "2026-10-22T13:16:42.519Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "tlS5qIB_IqpI7kL9o6yTmOW-PBdMkLpLFTLObx2-ejh8gHHce9-JwlUTlSZ2Fa9wKfTKkf8RLhqJ89qYSdxYAw"
+    "signatureValue": "b5jqYFwjzsxrQVXP_bUmYOf8dmsrz_rSUFSra3eGClsxARz57srnVDw7BoRm-PU4zv219f_VUC_adTXWQ2WQAQ"
   }
 }

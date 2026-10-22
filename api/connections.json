@@ -2,24 +2,22 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-10-21T23:08:29.736Z",
+  "updatedAt": "2026-10-22T13:16:42.519Z",
   "friends": [],
   "webrings": [
     {
       "id": "ring-indie-craft",
-      "name": "Indie Craft & Photo Ring",
-      "hubUrl": "https://ring.indiecraft.org/webring-hub.json",
-      "description": "A federated ring of independent photographers, makers, and digital gardeners.",
-      "prevSiteUrl": "https://maya.indiering.social",
-      "nextSiteUrl": "https://devon.indiering.social",
+      "name": "Science, Technology & Society",
+      "hubUrl": "",
+      "description": "A federated ring of those interested in science, technology & society",
       "joinedAt": "2026-10-21T19:14:12.817Z"
     }
   ],
   "endorsements": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-21T23:08:29.737Z",
+    "created": "2026-10-22T13:16:42.520Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "gXnSAaOvJpG2WvUED_GhhlKuSViMwq263cj4bPMJVPUhmDmp8uYe42uT5lW4cA_51sdFpi3fgAMDpf1InUrlBg"
+    "signatureValue": "7k5YHRCh8YP1XZGOxyoc48bF4vlIKTbg4HKcCJZQvAjHo9EVt78zpsKG6gObrMxjPvGDpAzk5DMXxrBOrcSsDQ"
   }
 }
