@@ -23,20 +23,20 @@
   "customLinks": [
     {
       "label": "My Webring Feed",
-      "url": "./api/manifest.json"
+      "url": "./cwl-webring/api/manifest.json"
     },
     {
       "label": "DID Identity",
-      "url": "./.well-known/did.json"
+      "url": "./cwl-webring/.well-known/did.json"
     }
   ],
   "theme": "neo-webring",
   "atprotoHandle": "",
-  "updatedAt": "2026-10-22T13:48:37.673Z",
+  "updatedAt": "2026-10-22T13:50:34.513Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-22T13:48:37.674Z",
+    "created": "2026-10-22T13:50:34.514Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "NcKqcYUc5151GBSL3WWTM1wJDSkfEtbkUVOAt7XueFhQcOs6GNmjMKod9VNTLKutT6tsWZxxYO6gfI7KL7JBBA"
+    "signatureValue": "CQ0OtVKrVmsO2h4WFTIK13MroBMg8upFyyw5mqofUfPge5cDcjc1TfnIHVs_wy6FI-Xv0ay6RYWbl7STZv6mBg"
   }
 }
