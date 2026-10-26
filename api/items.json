@@ -2,12 +2,12 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-10-26T16:34:22.827Z",
+  "updatedAt": "2026-10-26T16:35:02.546Z",
   "items": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-26T16:34:22.827Z",
+    "created": "2026-10-26T16:35:02.547Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "2-ejw2fUtJcDYQtHcMY6GDciTB9h2lEGdyaId8XSyx3dZRfrPxmX1M1da2_W7FudVh53jzfAYsdMJF8N956gCA"
+    "signatureValue": "D3PVO8XZweuDVPTgNigS54k_Ut_TJaKKEwQlRcQtD2z1JyV-rKSNyQHS43eluI0lObvsAanEGSssJQ-Povr-Bg"
   }
 }
