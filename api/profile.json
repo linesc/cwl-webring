@@ -30,7 +30,7 @@
       "url": "./cwl-webring/.well-known/did.json"
     }
   ],
-  "theme": "facepace",
+  "theme": "xtraspecial",
   "appearance": {
     "accent": "#22d3ee",
     "font": "sans",
@@ -83,11 +83,11 @@
     }
   ],
   "atprotoHandle": "",
-  "updatedAt": "2026-10-26T16:29:56.369Z",
+  "updatedAt": "2026-10-26T16:34:22.827Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-26T16:29:56.369Z",
+    "created": "2026-10-26T16:34:22.827Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "eIgirc98Xhb0PCJUNYvXXGHAONjUyAJ5DvLITL69h1iV1wZRA0FWBIul9l6_qPpshStMIlkyukrjqBCn6kevCQ"
+    "signatureValue": "CFKmIvMr-S_agYoRsek6prJcQTJOhqOfuSiuFvwMTupiD5Ft7UGH4J6CFC18BgGmvRyrIbstmVQqIQ5_ZZjQBA"
   }
 }
