@@ -83,11 +83,11 @@
     }
   ],
   "atprotoHandle": "",
-  "updatedAt": "2026-10-26T16:35:02.546Z",
+  "updatedAt": "2026-10-26T16:36:04.452Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-26T16:35:02.546Z",
+    "created": "2026-10-26T16:36:04.452Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "zVDHQN1ar8uC7pVjINDtE0Zmvf77U1LhPEoXPnnmKLqblLOVWOYc6TpOWi8mOCQ74pBZI0WKrKCs0OUqf-qOCQ"
+    "signatureValue": "nCOGWmmB7bsmc53lAS_AJFq7t_XjenAunyBKBN-FfBubf7lEhXGiWstYHppeepJe5HxP3dF-FbGt9Wcs1Ir_AA"
   }
 }
