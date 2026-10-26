@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-10-23T23:40:55.713Z",
+  "updatedAt": "2026-10-26T16:29:56.369Z",
   "albums": [
     {
       "id": "album-f5c8e82f",
@@ -61,13 +61,14 @@
         }
       ],
       "createdAt": "2026-10-22T12:58:04.994Z",
-      "updatedAt": "2026-10-22T13:15:04.174Z"
+      "updatedAt": "2026-10-22T13:15:04.174Z",
+      "manifestUrl": "media/albums/album-f5c8e82f/manifest.json"
     }
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-23T23:40:55.714Z",
+    "created": "2026-10-26T16:29:56.370Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "OBs04HAaxRTwaW2dPvE2UIqFFJxAae3elkl5i2H0oTPeK-0gFsyjtBYYTT4as--qCdqK7Wu4waFH83wDlEHKCg"
+    "signatureValue": "u12TVGiBmuDnnCJjqa5RAiRyGY2k3jwkea5lJ9y_Df04UWCm8v-wbU7OhlzRPPxn1xwsCi8DFbFw9pwavDgMAw"
   }
 }

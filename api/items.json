@@ -2,32 +2,12 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-10-23T23:40:55.713Z",
-  "items": [
-    {
-      "id": "item-posse-manifesto",
-      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/items.json#item-item-posse-manifesto",
-      "type": "share",
-      "title": "Why Small Static Websites & Webrings Are Returning",
-      "targetUrl": "https://indieweb.org/POSSE",
-      "targetAuthorUrl": "https://indieweb.org",
-      "targetAuthorName": "IndieWeb Community",
-      "category": "article",
-      "commentary": "Owning your own digital home and syndicating outward via clean JSON schemas is the antidote to algorithmic burnout.",
-      "mediaUrl": "",
-      "rating": 5,
-      "tags": [
-        "indieweb",
-        "federation",
-        "webrings"
-      ],
-      "createdAt": "2026-10-21T19:14:12.817Z"
-    }
-  ],
+  "updatedAt": "2026-10-26T16:29:56.369Z",
+  "items": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-23T23:40:55.714Z",
+    "created": "2026-10-26T16:29:56.370Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "qSyfq9IPtziCMVJlc8jiuaRQkmsAyABLxowEVXEUu8uWwigmY61_KH7kBoxVoXK5LK8xRL7V5B-qL6Mf3P4MAw"
+    "signatureValue": "CUoXPDlKVErzm4t8ZHxhXHOS5mnrJlIsBtSWnaiztbHSY643sR9X43RjM3Fw_9cREmCzhHZEtfWFmtncswUPBw"
   }
 }

@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "1.0.0",
+  "type": "webring-album-manifest",
+  "siteUrl": "https://linesc.github.io/cwl-webring",
+  "did": "did:web:linesc.github.io:cwl-webring",
+  "updatedAt": "2026-10-22T13:15:04.174Z",
+  "album": {
+    "id": "album-f5c8e82f",
+    "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#album-album-f5c8e82f",
+    "title": "Technology",
+    "description": "A sample album of Technology related photos",
+    "coverUrl": "https://images.pexels.com/photos/31177212/pexels-photo-31177212.jpeg",
+    "tags": [
+      "technology",
+      "digital",
+      "computers"
+    ],
+    "createdAt": "2026-10-22T12:58:04.994Z"
+  },
+  "photos": [
+    {
+      "id": "photo-63a0035b",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-63a0035b",
+      "caption": "Vibrant JavaScript code displayed on a monitor showcasing web development.",
+      "altText": "Vibrant JavaScript code displayed on a monitor showcasing web development.",
+      "tags": [
+        "javascript",
+        "code",
+        "web development"
+      ],
+      "takenAt": "2026-10-22T12:58:59.814Z",
+      "createdAt": "2026-10-22T12:58:59.814Z",
+      "image": {
+        "url": "https://images.pexels.com/photos/31177212/pexels-photo-31177212.jpeg"
+      },
+      "thumbnail": {
+        "url": "https://images.pexels.com/photos/31177212/pexels-photo-31177212.jpeg"
+      }
+    },
+    {
+      "id": "photo-5ab4eb81",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-5ab4eb81",
+      "caption": "Close-up view of an open hard drive held in a hand, illustrating data storage technology.",
+      "altText": "Close-up view of an open hard drive held in a hand, illustrating data storage technology.",
+      "tags": [
+        "hardware",
+        "hard drive",
+        "data storage"
+      ],
+      "takenAt": "2026-10-22T13:00:05.808Z",
+      "createdAt": "2026-10-22T13:00:05.808Z",
+      "image": {
+        "url": "https://images.pexels.com/photos/18734876/pexels-photo-18734876.jpeg"
+      },
+      "thumbnail": {
+        "url": "https://images.pexels.com/photos/18734876/pexels-photo-18734876.jpeg"
+      }
+    },
+    {
+      "id": "photo-d7be4ae7",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-d7be4ae7",
+      "caption": "Detailed close-up of a computer circuit board showcasing electronic components.",
+      "altText": "Detailed close-up of a computer circuit board showcasing electronic components.",
+      "tags": [
+        "hardware. circuit board"
+      ],
+      "takenAt": "2026-10-22T13:15:04.174Z",
+      "createdAt": "2026-10-22T13:15:04.174Z",
+      "image": {
+        "url": "https://images.pexels.com/photos/34924856/pexels-photo-34924856.jpeg"
+      },
+      "thumbnail": {
+        "url": "https://images.pexels.com/photos/34924856/pexels-photo-34924856.jpeg"
+      }
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-10-26T16:29:56.372Z",
+    "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
+    "signatureValue": "sozU8d0SlcjHL0V63vsBQ95HzkAsiRSfZ9a4QmAAfZqTvax8xyD3Wt12kDQe-1nJcZarZI9kzxr7S2AKPDAaCA"
+  }
+}

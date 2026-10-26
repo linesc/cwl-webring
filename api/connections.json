@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-10-23T23:40:55.713Z",
+  "updatedAt": "2026-10-26T16:29:56.369Z",
   "friends": [
     {
       "id": "friend-94c35676",
@@ -14,6 +14,7 @@
       "bio": "",
       "relationship": [],
       "visibility": "public",
+      "lastCrawledAt": "2026-10-25T19:11:37.518Z",
       "addedAt": "2026-10-22T13:40:09.179Z"
     },
     {
@@ -21,11 +22,12 @@
       "siteUrl": "https://lines2code.com/social",
       "did": "did:web:lines2code.com:social",
       "displayName": "Corey Lines",
-      "handle": "lines2code.com",
+      "handle": "alex.indiering.social",
       "avatarUrl": "https://lines2code.com/wp-content/uploads/2026/04/472790698_10170503894710595_2800355422065316916_n.jpg?w=300&auto=format&fit=crop&q=80",
-      "bio": "",
+      "bio": "Welcome to my self-contained corner of the web! Everything here is hosted as static JSON & HTML, managed locally from my WebRing Studio, application, and federated across my friend ring.",
       "relationship": [],
       "visibility": "public",
+      "lastCrawledAt": "2026-10-25T19:11:37.986Z",
       "addedAt": "2026-10-22T13:37:44.811Z"
     }
   ],
@@ -33,7 +35,7 @@
     {
       "id": "ring-indie-craft",
       "name": "Science, Technology & Society",
-      "hubUrl": "",
+      "hubUrl": "https://lines2code.com/webring",
       "description": "A federated ring of those interested in science, technology & society",
       "prevSiteUrl": "https://bitphr3ak.net/social",
       "nextSiteUrl": "https://lines2code.com/social",
@@ -43,8 +45,8 @@
   "endorsements": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-23T23:40:55.714Z",
+    "created": "2026-10-26T16:29:56.370Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "ebJeypsZpo_WvQbIUlYt28OOz-hupYPfOeIHzFzRSJxZGce9i3J73VAi02h59Lb-P47BSebxJeu3NyOQauDdDw"
+    "signatureValue": "GYBKoJ9Trph2ii3jj0C-9PIbdT-grGGB0bmmqcaT5lyz6GVY0z64iVBlppKeArDj_9okAc8Sclh-vhMll8k-Aw"
   }
 }
