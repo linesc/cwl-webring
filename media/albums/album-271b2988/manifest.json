@@ -297,7 +297,7 @@
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-02T19:07:20.645Z",
+    "created": "2026-11-02T19:11:27.681Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
     "signatureValue": "g2d0UbjDjMJ_LxijWpM4EJHDtj5_otpBPvZwxEPZPT9u9gY_OXjAcivhnUbnjGRUIGQdSqgNrTlOB2CMRH5VDg"
   }
