@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.0.0",
+  "type": "webring-album-manifest",
+  "siteUrl": "https://linesc.github.io/cwl-webring",
+  "did": "did:web:linesc.github.io:cwl-webring",
+  "updatedAt": "2026-11-02T19:04:11.258Z",
+  "album": {
+    "id": "album-cd0cc08f",
+    "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#album-album-cd0cc08f",
+    "title": "Midjourney Misc Images",
+    "description": "Material Items",
+    "coverUrl": "media/albums/album-cd0cc08f/13bab6379df92dcfcff7.thumb.png",
+    "tags": [
+      "Midjourney",
+      "3D",
+      "Material Items",
+      "Metal",
+      "Texture"
+    ],
+    "createdAt": "2026-11-02T19:02:36.709Z"
+  },
+  "photos": [
+    {
+      "id": "photo-bba39fee",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-bba39fee",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:03:35.156Z",
+      "createdAt": "2026-11-02T19:03:35.156Z",
+      "image": {
+        "url": "media/albums/album-cd0cc08f/13bab6379df92dcfcff7.png",
+        "sha256": "13bab6379df92dcfcff7c16891d052e0c48b1ddd912e794dc1be3e5604d77063",
+        "bytes": 1484244,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024
+      },
+      "thumbnail": {
+        "url": "media/albums/album-cd0cc08f/13bab6379df92dcfcff7.thumb.png",
+        "sha256": "d306120c198a8a54bb4b00046e71b2c622523eb13ed175b75fa2afe710313830",
+        "bytes": 372520,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 480
+      }
+    },
+    {
+      "id": "photo-31a931ce",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-31a931ce",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:03:35.261Z",
+      "createdAt": "2026-11-02T19:03:35.261Z",
+      "image": {
+        "url": "media/albums/album-cd0cc08f/529ef0987e2db777cf62.png",
+        "sha256": "529ef0987e2db777cf621f280f6a7042fec9b26f88c24cf95001b0d05f7e6b3e",
+        "bytes": 1640478,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024
+      },
+      "thumbnail": {
+        "url": "media/albums/album-cd0cc08f/529ef0987e2db777cf62.thumb.png",
+        "sha256": "5bf59a6679e0cb531df3e128c8385ea7d0b23668dcc0114d9c1d5dcec6be8fb3",
+        "bytes": 353966,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 480
+      }
+    },
+    {
+      "id": "photo-92cc60db",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-92cc60db",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:03:35.366Z",
+      "createdAt": "2026-11-02T19:03:35.366Z",
+      "image": {
+        "url": "media/albums/album-cd0cc08f/e726a80974bb92174e08.png",
+        "sha256": "e726a80974bb92174e08c5e95cd97ea8a584ded8f22270e15800ed5a758c89ac",
+        "bytes": 923526,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024
+      },
+      "thumbnail": {
+        "url": "media/albums/album-cd0cc08f/e726a80974bb92174e08.thumb.png",
+        "sha256": "9040bfe4a95ab2fdcb685667fda23f84f49056b613cbc6d1db5cada06c12c360",
+        "bytes": 233642,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 480
+      }
+    },
+    {
+      "id": "photo-d9a2c689",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-d9a2c689",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:03:35.477Z",
+      "createdAt": "2026-11-02T19:03:35.477Z",
+      "image": {
+        "url": "media/albums/album-cd0cc08f/138bb2d0b13ea0c0cdea.png",
+        "sha256": "138bb2d0b13ea0c0cdeaca42ecb9d0bc8ad7a9ea491e4ad10fab2f08fdf67187",
+        "bytes": 1910896,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024
+      },
+      "thumbnail": {
+        "url": "media/albums/album-cd0cc08f/138bb2d0b13ea0c0cdea.thumb.png",
+        "sha256": "538565a443b0dc199b5ae61beeaf659a0866f75b1448fe0b50e54eb455be15d4",
+        "bytes": 384852,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 480
+      }
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-11-02T19:07:20.645Z",
+    "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
+    "signatureValue": "DS7ocCMe6bmYYmbgJP7atO35fJG5DCq9sX0TM21zL5kNqN6Tn8chxBGYjIZCUgDIRTCcd8kZ1YC6UXhzglj-Ag"
+  }
+}

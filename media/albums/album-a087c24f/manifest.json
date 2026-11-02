@@ -1,0 +1,424 @@
+{
+  "schemaVersion": "1.0.0",
+  "type": "webring-album-manifest",
+  "siteUrl": "https://linesc.github.io/cwl-webring",
+  "did": "did:web:linesc.github.io:cwl-webring",
+  "updatedAt": "2026-11-02T19:07:12.273Z",
+  "album": {
+    "id": "album-a087c24f",
+    "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#album-album-a087c24f",
+    "title": "Midjourney Images #1",
+    "description": "",
+    "coverUrl": "media/albums/album-a087c24f/c74ef0ffd76316c75184.thumb.png",
+    "tags": [],
+    "createdAt": "2026-11-02T19:05:06.304Z"
+  },
+  "photos": [
+    {
+      "id": "photo-0912fbbb",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-0912fbbb",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:05:41.808Z",
+      "createdAt": "2026-11-02T19:05:41.808Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/c74ef0ffd76316c75184.png",
+        "sha256": "c74ef0ffd76316c75184b15542a40a8f0e5e5e0ca119751304bdb00192ea97d1",
+        "bytes": 2470739,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/c74ef0ffd76316c75184.thumb.png",
+        "sha256": "cf4cca9a0b9ba01e0625b3545c6f9e52098a269e925027664fabb4617335a830",
+        "bytes": 281520,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-82679311",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-82679311",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:06:59.674Z",
+      "createdAt": "2026-11-02T19:06:59.674Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/ee33609453170058455f.png",
+        "sha256": "ee33609453170058455fbe3bc9594d05ff637ef7548e4ea37b519d5fb2d11339",
+        "bytes": 1776035,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/ee33609453170058455f.thumb.png",
+        "sha256": "0400c2ecb44cc0fe521c3e948d1c5244676ac0cfcd872b5164a0e0d17937792b",
+        "bytes": 217382,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-7ae4459d",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-7ae4459d",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:06:59.816Z",
+      "createdAt": "2026-11-02T19:06:59.816Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/155e2166634e200a8965.png",
+        "sha256": "155e2166634e200a8965ab73c2f0b790164091074ffec0a3692646c245af985d",
+        "bytes": 2440451,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/155e2166634e200a8965.thumb.png",
+        "sha256": "4bc7f4a45714fcccfa35940d6811cba9c0cdf8af03cb1514ebe6e6fea937b16c",
+        "bytes": 242894,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-09120d87",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-09120d87",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:06:59.954Z",
+      "createdAt": "2026-11-02T19:06:59.954Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/72aa80900984e577330c.png",
+        "sha256": "72aa80900984e577330ca8751f3f577b5aac1333421707e4639e69e7cbb50456",
+        "bytes": 2465402,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/72aa80900984e577330c.thumb.png",
+        "sha256": "4a3cdc80914ae8f6cc0d0945ed9d6c4bb3c6cbc19654556268106318f39cd30f",
+        "bytes": 249786,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-ea5fc3a4",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-ea5fc3a4",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:00.101Z",
+      "createdAt": "2026-11-02T19:07:00.101Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/c9520a302e3d50d8fd91.png",
+        "sha256": "c9520a302e3d50d8fd91c1dbae7d74d586590b38e2c49c28835606b24a79576e",
+        "bytes": 2444319,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/c9520a302e3d50d8fd91.thumb.png",
+        "sha256": "62f934c6929558ba1acfb36d38b6b893c73fa1f897313c592fa65fe081957827",
+        "bytes": 267123,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-badef086",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-badef086",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:00.236Z",
+      "createdAt": "2026-11-02T19:07:00.236Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/ed31dec0d7abddcd7110.png",
+        "sha256": "ed31dec0d7abddcd7110c58313f9bbd7599c109ac220770f4e7092acd45a8aea",
+        "bytes": 2360772,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/ed31dec0d7abddcd7110.thumb.png",
+        "sha256": "5498cc6138c216006bddd121ba3d8c82a31396e232d33315bb1cac091b4b8b38",
+        "bytes": 262649,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-49edffff",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-49edffff",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:00.385Z",
+      "createdAt": "2026-11-02T19:07:00.385Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/e0ec8758c4e4feb124ca.png",
+        "sha256": "e0ec8758c4e4feb124ca7ff306e701e09fc2e642239f8c006eac7dad00e926f6",
+        "bytes": 2384827,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/e0ec8758c4e4feb124ca.thumb.png",
+        "sha256": "67404b7aaf4b9ef0a7d35a3cd40fda9226b251cf9bd2f425df268c25383fed06",
+        "bytes": 272334,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-4c6ae3f2",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-4c6ae3f2",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:00.520Z",
+      "createdAt": "2026-11-02T19:07:00.520Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/3aed977627eec8530b6e.png",
+        "sha256": "3aed977627eec8530b6ee808aad8a2249e867df6d2e7db2863801339c3fcea43",
+        "bytes": 1668712,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/3aed977627eec8530b6e.thumb.png",
+        "sha256": "87876fa6c8019d5a4ec5fa1833a3997a45fd4972a201dd34b0d7351beb17916e",
+        "bytes": 216997,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-61db6bf4",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-61db6bf4",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:00.652Z",
+      "createdAt": "2026-11-02T19:07:00.652Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/da916f6f547a8456d6df.png",
+        "sha256": "da916f6f547a8456d6df33b074a1651c566f2c35a28ed2fc9ba27afe8bb3d5b0",
+        "bytes": 2297257,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/da916f6f547a8456d6df.thumb.png",
+        "sha256": "081563e9e7f5709cd3219ed0fdfa92dfec96fc1a642e21185733f733eabb97f5",
+        "bytes": 221135,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-d50c52a6",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-d50c52a6",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:00.785Z",
+      "createdAt": "2026-11-02T19:07:00.785Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/ebac8db7d38dbd0d2662.png",
+        "sha256": "ebac8db7d38dbd0d2662ae1418778a47bb209ad646a8376818db833f8f5b0de0",
+        "bytes": 2480666,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/ebac8db7d38dbd0d2662.thumb.png",
+        "sha256": "5d6ffdcde410199ddc7050c3c15e0f4a06fcea67628d02214187af5a203ee3d5",
+        "bytes": 257904,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-d9efc201",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-d9efc201",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:00.919Z",
+      "createdAt": "2026-11-02T19:07:00.919Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/bccb88ad7bf91966af46.png",
+        "sha256": "bccb88ad7bf91966af469736346dc83151a72cef69601cf053dae20c9d39c724",
+        "bytes": 2327376,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/bccb88ad7bf91966af46.thumb.png",
+        "sha256": "92fa14993aacaec9a2953ab341e970fe08a15d924ac5492d849b41cf928fcb9d",
+        "bytes": 242943,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-a2fe08dc",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-a2fe08dc",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:01.057Z",
+      "createdAt": "2026-11-02T19:07:01.057Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/0e5abb94de1cadbe2f76.png",
+        "sha256": "0e5abb94de1cadbe2f763147819a7ae9de643aa96587c1a27ce461ece7988609",
+        "bytes": 1938926,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/0e5abb94de1cadbe2f76.thumb.png",
+        "sha256": "3b1c77c36540ef3aa3d64149e4812e95691760bcf1f0ea89ffc5c58c924eec16",
+        "bytes": 244013,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-2d578df9",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-2d578df9",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:01.205Z",
+      "createdAt": "2026-11-02T19:07:01.205Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/5d22df5eacd3aadba155.png",
+        "sha256": "5d22df5eacd3aadba155deb10c00c0fb7ae56a0670cebc1c4782f0c1b13a89b6",
+        "bytes": 2189138,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/5d22df5eacd3aadba155.thumb.png",
+        "sha256": "88c5461fcc009b86b0e537dd3d0123940cba3869cca5d7bf1d55aa90dbad1842",
+        "bytes": 251442,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-958d7c09",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-958d7c09",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:01.350Z",
+      "createdAt": "2026-11-02T19:07:01.350Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/dfe407a2b371f4a741dc.png",
+        "sha256": "dfe407a2b371f4a741dcda25a46b7f3791dd54cbf840363dfe0c6954cd7a41b3",
+        "bytes": 2562617,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/dfe407a2b371f4a741dc.thumb.png",
+        "sha256": "e0bc30c983fa7c02144078d73a0eebd6c2e8e8ace539bbdd56f70f131e80bc79",
+        "bytes": 263636,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-a8d544a0",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-a8d544a0",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:01.504Z",
+      "createdAt": "2026-11-02T19:07:01.504Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/c508896fd657212167aa.png",
+        "sha256": "c508896fd657212167aabe6a33e2064ba28d4f4a4e17d427590b75cea726d9e5",
+        "bytes": 2359569,
+        "mimeType": "image/png",
+        "width": 1456,
+        "height": 816
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/c508896fd657212167aa.thumb.png",
+        "sha256": "89c1276fca58aecf03f046c1e0a78df48055ef1b956a2b71aa05204cc59721c3",
+        "bytes": 272812,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 269
+      }
+    },
+    {
+      "id": "photo-2a963b24",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-2a963b24",
+      "caption": "",
+      "altText": "",
+      "tags": [],
+      "takenAt": "2026-11-02T19:07:01.635Z",
+      "createdAt": "2026-11-02T19:07:01.635Z",
+      "image": {
+        "url": "media/albums/album-a087c24f/09373b32c573e5d67fd1.png",
+        "sha256": "09373b32c573e5d67fd195a679458ec429f4f09f8948dafadf8d7d50b5b047a8",
+        "bytes": 2321263,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024
+      },
+      "thumbnail": {
+        "url": "media/albums/album-a087c24f/09373b32c573e5d67fd1.thumb.png",
+        "sha256": "242d2532c8a0ee2b2932ea4f4b89d3aa5c6002556fa6669ed69d80041f494f58",
+        "bytes": 512557,
+        "mimeType": "image/png",
+        "width": 480,
+        "height": 480
+      }
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-11-02T19:07:20.645Z",
+    "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
+    "signatureValue": "UqR7NiAWVeSO9nWy0wbRa6IL-i9Uxq85IFVTIYo7m3WDv3-8OKguwlQYGMkd6mrl-MCu_UVg8eExsRl8Sf9HAw"
+  }
+}
