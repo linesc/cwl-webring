@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-10-26T16:36:04.452Z",
+  "updatedAt": "2026-11-02T00:55:39.943Z",
   "endpoints": {
     "did": "/.well-known/did.json",
     "profile": "/api/profile.json",
@@ -13,14 +13,31 @@
   "stats": {
     "albumCount": 1,
     "photoCount": 3,
-    "itemCount": 0,
+    "itemCount": 1,
     "friendCount": 2,
     "webringCount": 1
   },
+  "documents": {
+    "did": {
+      "sha256": "e2171f054087728b5892c5475cd5fd9ba917d808911d0ecaef55fc5443ce43ca"
+    },
+    "profile": {
+      "sha256": "561a3181258ccba347ae4f1462963e86815b73e4dfd660f5e087a0ef2d1e1113"
+    },
+    "albums": {
+      "sha256": "d3f41aa6d4d6775f73c1720ec1d5c8f84c8cc291ad72a40e3c52504b33acbd56"
+    },
+    "items": {
+      "sha256": "039e074c3560af7fce91d10381b9a475c01a66a22e2cdabc1ba714ed858dc1b0"
+    },
+    "connections": {
+      "sha256": "00acd535926d97e5bee12733cf671f23d7d568b6f6d506f85d4ab01adb3b10e9"
+    }
+  },
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-10-26T16:36:04.453Z",
+    "created": "2026-11-02T00:55:39.943Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "TpAvmffjkXXQeSRpMlbSp1w1E62Myo2v3EcvZlZlX6x860JPfSKyCYHABIe6BzvN3uC3YL_XGfeFz6jgpKa4Dw"
+    "signatureValue": "o0cFY9SnKzu1RGAeSilc1AhXQv5zbcfuVjzLB2prbfVvyIPBtWWkz80h2TsGWshvpP6C5rXMz7zf1PZ-Jpt8Bw"
   }
 }
