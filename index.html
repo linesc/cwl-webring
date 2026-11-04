@@ -865,14 +865,20 @@
         const count = typeof ring.memberCount === 'number' ? ring.memberCount : 3;
         const homeHref = safeUrl(ring.directoryUrl || ring.hubUrl);
         const single = ring.prevSiteUrl && ring.prevSiteUrl === ring.nextSiteUrl;
-        const navLink = (nav, href, label) =>
-          '<a href="' + safeUrl(href) + '" data-ring-nav="' + nav + '" data-ring-index="' + ringIndex + '" rel="noopener noreferrer" class="hover:underline">' + label + '</a>';
+        const navLink = (nav, href, label, extra) =>
+          '<a href="' + safeUrl(href) + '" data-ring-nav="' + nav + '" data-ring-index="' + ringIndex + '"' + (extra || '') + ' rel="noopener noreferrer" class="hover:underline">' + label + '</a>';
+        // Random lands on a member saved at publish (never the hub's JSON), so it still works
+        // in the preview and when the hub can't be read
+        const rotation = ringRotation(ring);
+        const randomHref = rotation[0] || ring.directoryUrl;
         const links = count <= 1
           ? ''
           : single
             ? navLink('next', ring.nextSiteUrl, 'Neighbour →')
             : (ring.prevSiteUrl ? navLink('prev', ring.prevSiteUrl, '← Prev Site') : '') +
-              (count > 2 ? navLink('random', ring.directoryUrl || ring.hubUrl, 'Random') : '') +
+              (count > 2 && randomHref
+                ? navLink('random', randomHref, 'Random', rotation.length ? ' data-ring-random="' + esc(rotation.join(' ')) + '"' : '')
+                : '') +
               (ring.nextSiteUrl ? navLink('next', ring.nextSiteUrl, 'Next Site →') : '');
         return `
         <div class="card-surface rounded-xl px-4 py-2.5 mb-3 flex flex-wrap items-center justify-between gap-2 text-xs">
@@ -898,6 +904,21 @@
         } catch (e) {
           return null;
         }
+      }
+
+      // The other members saved at publish, filtered like hub addresses
+      function ringRotation(ring) {
+        const me = ringSiteUrl(profile.siteUrl);
+        const urls = [];
+        (Array.isArray(ring.rotationUrls) ? ring.rotationUrls : []).forEach(function(value) {
+          const url = ringSiteUrl(value);
+          if (url && url !== me && urls.indexOf(url) === -1) urls.push(url);
+        });
+        return urls;
+      }
+
+      function pickRandom(list) {
+        return list.length ? list[Math.floor(Math.random() * list.length)] : null;
       }
 
       async function fetchRingHub(hubUrl) {
@@ -939,12 +960,13 @@
           const others = rotation.filter(function(u) { return u !== me; });
           const idx = rotation.indexOf(me);
           if (nav === 'random') {
-            target = others.length ? others[Math.floor(Math.random() * others.length)] : null;
+            target = pickRandom(others);
           } else if (idx !== -1 && rotation.length > 1) {
             const step = nav === 'prev' ? -1 : 1;
             target = rotation[(idx + step + rotation.length) % rotation.length];
           }
         }
+        if (!target && nav === 'random') target = pickRandom(ringRotation(ring));
         const destination = target || fallback;
         if (destination && destination.charAt(0) !== '#') window.location.assign(destination);
       });
