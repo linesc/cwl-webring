@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-11-02T19:07:20.521Z",
+  "updatedAt": "2026-11-04T17:21:17.454Z",
   "albums": [
     {
       "id": "album-a087c24f",
@@ -335,7 +335,11 @@
       ],
       "createdAt": "2026-11-02T19:05:06.304Z",
       "updatedAt": "2026-11-02T19:07:12.273Z",
-      "manifestUrl": "media/albums/album-a087c24f/manifest.json"
+      "manifestUrl": "media/albums/album-a087c24f/manifest.json",
+      "slug": "midjourney-images-1",
+      "pageUrl": "albums/midjourney-images-1/",
+      "postToFeed": true,
+      "display": "card"
     },
     {
       "id": "album-cd0cc08f",
@@ -434,7 +438,11 @@
       ],
       "createdAt": "2026-11-02T19:02:36.709Z",
       "updatedAt": "2026-11-02T19:04:11.258Z",
-      "manifestUrl": "media/albums/album-cd0cc08f/manifest.json"
+      "manifestUrl": "media/albums/album-cd0cc08f/manifest.json",
+      "slug": "midjourney-misc-images",
+      "pageUrl": "albums/midjourney-misc-images/",
+      "postToFeed": true,
+      "display": "card"
     },
     {
       "id": "album-271b2988",
@@ -672,13 +680,17 @@
       ],
       "createdAt": "2026-11-02T18:59:36.274Z",
       "updatedAt": "2026-11-02T19:02:04.713Z",
-      "manifestUrl": "media/albums/album-271b2988/manifest.json"
+      "manifestUrl": "media/albums/album-271b2988/manifest.json",
+      "slug": "midjourney-backgrounds",
+      "pageUrl": "albums/midjourney-backgrounds/",
+      "postToFeed": true,
+      "display": "card"
     }
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-02T19:07:20.521Z",
+    "created": "2026-11-04T17:21:17.454Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "Z78RWZSmaKVJEsgc5sB2T__T-LBk38iiCfOICKHlP5y1Ksjq-2i9RUleeoijIzQBxHKC8lhiTKdTuzaVgtYPBQ"
+    "signatureValue": "1na2q9FqILAiNf7NqVZDGMwIpujGWQ2v7gYH70WzvmkCK0EyxbPHp7mrqQuHec7rUXnadBl68Cp4Ssc9W_s1DA"
   }
 }

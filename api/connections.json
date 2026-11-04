@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-11-02T19:07:20.521Z",
+  "updatedAt": "2026-11-04T17:21:17.454Z",
   "friends": [
     {
       "id": "friend-94c35676",
@@ -14,7 +14,7 @@
       "bio": "Bitphr3ak is the sonic project of a boundary-breaking digitaldidact, a creator who fuses punk, grunge, metal, and alternative rock with the pulse of the digital age.\n\nHis AI-driven instrumentation and razor-edged lyrics remix tradition into something volatile, urgent, and unmistakably now.\n\nEach track is a collision of rebellion and reflection—where empathy meets dissonance, and self-awareness is sharpened into critique.\n\nBitphr3ak doesn’t soothe; he exposes. Misunderstanding, conflict, and discord are laid bare as warnings, reminders of the fractures running through our human experience.\n\nFrom attachment psychologyto socio-political fault lines, Bitphr3ak dissects the narratives we live inside, challenging perception and sparking conversation.\n\nStep into the world of Bitphr3ak—where innovation confronts chaos, and every note is a signal flare.",
       "relationship": [],
       "visibility": "public",
-      "lastCrawledAt": "2026-11-02T01:27:05.327Z",
+      "lastCrawledAt": "2026-11-03T00:12:55.008Z",
       "addedAt": "2026-10-22T13:40:09.179Z"
     },
     {
@@ -27,7 +27,7 @@
       "bio": "Welcome to my self-contained corner of the web! Everything here is hosted as static JSON & HTML, managed locally from my Webring Studio application, and federated across my friend ring.",
       "relationship": [],
       "visibility": "public",
-      "lastCrawledAt": "2026-11-02T01:27:05.360Z",
+      "lastCrawledAt": "2026-11-03T00:12:55.038Z",
       "addedAt": "2026-10-22T13:37:44.811Z"
     }
   ],
@@ -45,8 +45,8 @@
   "endorsements": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-02T19:07:20.521Z",
+    "created": "2026-11-04T17:21:17.454Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "KBk_5ijnKReidxZ0FjfZksVk_vNn95ACJ2m_GWxtpA3SEtOYd2DnFjQpeEjMtLm1ygHlUToH38MO_Usdpeq-AQ"
+    "signatureValue": "5m8gG4s7eEKX-zfpTXSydPzxA8McTRL-qljRih0JqEKRUQiQveTShzSesc8WZWRn9rKnu3DXjT6_sgeIUNdyAw"
   }
 }
