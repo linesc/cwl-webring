@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Technology Professionals",
+  "description": "A ring of technology professionals in the wild",
+  "hubUrl": "https://linesc.github.io/cwl-webring/api/rings/technology-professionals.json",
+  "maintainerUrl": "https://linesc.github.io/cwl-webring",
+  "maintainerDid": "did:web:linesc.github.io:cwl-webring",
+  "status": "active",
+  "directoryUrl": "https://linesc.github.io/cwl-webring/rings/technology-professionals/",
+  "tagline": "An independent group of technology professionals",
+  "updatedAt": "2026-11-04T19:10:24.629Z",
+  "members": [
+    {
+      "siteUrl": "https://linesc.github.io/cwl-webring",
+      "displayName": "Corey Lines",
+      "did": "did:web:linesc.github.io:cwl-webring",
+      "joinedAt": "2026-11-04T19:07:06.700Z",
+      "avatarUrl": "https://linesc.github.io/cwl-webring/media/profile/avatar-2d1e87c7e5df5d3dc0cb.png",
+      "tagline": "Senior Quality Engineer, Web Application Developer, Sheppard of Agents"
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-11-04T19:11:01.615Z",
+    "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
+    "signatureValue": "GqFZx-ZuBp_KFUpEwoQLOdMvY_f9Y4EewCkUZAPPUgdauo9SinJKSMGDAkzpGgA4ZV56Z2QB9-fOfr3hI7vKDQ"
+  }
+}

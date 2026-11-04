@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-11-04T18:46:40.945Z",
+  "updatedAt": "2026-11-04T19:11:01.611Z",
   "friends": [
     {
       "id": "friend-94c35676",
@@ -31,12 +31,22 @@
       "addedAt": "2026-10-22T13:37:44.811Z"
     }
   ],
-  "webrings": [],
+  "webrings": [
+    {
+      "id": "hosted-fd0be054",
+      "name": "Technology Professionals",
+      "hubUrl": "https://linesc.github.io/cwl-webring/api/rings/technology-professionals.json",
+      "description": "A ring of technology professionals in the wild",
+      "joinedAt": "2026-11-04T19:07:06.700Z",
+      "memberCount": 1,
+      "directoryUrl": "https://linesc.github.io/cwl-webring/rings/technology-professionals/"
+    }
+  ],
   "endorsements": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-04T18:46:40.945Z",
+    "created": "2026-11-04T19:11:01.611Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "IWFjmczJydFqWYLYAaQYFNVo0zIbQvB9-zHgpX4Ym6Sy8UlmCRxIbRLUV32kYjLU06SPYNzn_7IP-X_IfXz_DA"
+    "signatureValue": "dXgEVuWdfjiNmRh1G1O4viJBDAYz-SPbwH3ifsrOtJurZ9tq4WvPNlr-CsUYM8A1OHz_r5ugJgdtO-ucCLVWDQ"
   }
 }
