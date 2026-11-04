@@ -516,9 +516,9 @@
     const link = ctx.buildDeepLink;
     const profile = ctx.profile;
     const shell = ctx.shell;
-    const ASIDE_TYPES = ['friends', 'contact', 'links', 'guestbook'];
+    const ASIDE_TYPES = ['friends', 'rings', 'contact', 'links', 'guestbook'];
     const TYPE_LABELS = { post: 'Post', like: 'Liked', share: 'Shared', recommendation: 'Recommends', comment: 'Comment' };
-    const BLOCK_TABS = { albums: 'Photos', items: 'Posts', friends: 'Friends', text: 'About', image: 'Image', links: 'Links', featured: 'Featured', contact: 'Contact', guestbook: 'Guestbook' };
+    const BLOCK_TABS = { albums: 'Photos', items: 'Posts', friends: 'Friends', text: 'About', image: 'Image', links: 'Links', featured: 'Featured', contact: 'Contact', guestbook: 'Guestbook', rings: 'Webrings' };
     let host = '';
     try {
         host = new URL(String(profile.siteUrl || '')).host;
@@ -1289,6 +1289,21 @@
           return '';
         },
         contact: (b) => (b.options && (b.options.entries || []).length) ? section(b, '✉️ Contact & Elsewhere', linkButtons(b.options.entries, 'me')) : '',
+        rings: (b) => {
+          const rings = (connections.webrings || []).filter(r => r && r.name && (r.directoryUrl || r.hubUrl));
+          if (!rings.length) return '';
+          const cards = rings.map(r => {
+            const href = safeUrl(r.directoryUrl || r.hubUrl);
+            const count = typeof r.memberCount === 'number' && r.memberCount > 0 ? r.memberCount + ' member' + (r.memberCount === 1 ? '' : 's') : '';
+            return '<a href="' + href + '" target="_blank" rel="noopener noreferrer" class="card-surface rounded-xl p-4 block hover:opacity-90">' +
+              '<span class="accent-soft text-[10px] px-2 py-0.5 rounded-full bg-indigo-500/20 text-indigo-300 font-semibold">WEBRING</span>' +
+              '<h3 class="font-bold mt-2">' + esc(r.name) + '</h3>' +
+              (r.description ? '<p class="text-sm opacity-80 mt-1">' + esc(r.description) + '</p>' : '') +
+              (count ? '<p class="text-xs opacity-60 mt-2">' + count + '</p>' : '') +
+            '</a>';
+          }).join('');
+          return section(b, '🔗 Webrings (' + rings.length + ')', '<div class="grid grid-cols-1 sm:grid-cols-2 gap-4">' + cards + '</div>');
+        },
         guestbook: (b) => hasGuestbook
           ? section(b, '📖 Guestbook', '<div class="card-surface rounded-xl p-4"><button onclick="window.openGuestbook()" class="accent-solid px-4 py-2 rounded-xl bg-indigo-600 text-white text-sm font-semibold">Open Guestbook</button><div id="guestbook-thread" class="hidden mt-3"></div></div>')
           : '',
