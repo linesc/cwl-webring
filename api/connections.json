@@ -2,21 +2,8 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-11-04T19:11:01.611Z",
+  "updatedAt": "2026-11-06T19:07:39.480Z",
   "friends": [
-    {
-      "id": "friend-94c35676",
-      "siteUrl": "https://bitphr3ak.net/social",
-      "did": "did:web:bitphr3ak.net:social",
-      "displayName": "Bitphr3ak",
-      "handle": "bitphr3ak.net",
-      "avatarUrl": "media/profile/avatar-090f05f498b6c20c5b76.jpg",
-      "bio": "Bitphr3ak is the sonic project of a boundary-breaking digitaldidact, a creator who fuses punk, grunge, metal, and alternative rock with the pulse of the digital age.\n\nHis AI-driven instrumentation and razor-edged lyrics remix tradition into something volatile, urgent, and unmistakably now.\n\nEach track is a collision of rebellion and reflection—where empathy meets dissonance, and self-awareness is sharpened into critique.\n\nBitphr3ak doesn’t soothe; he exposes. Misunderstanding, conflict, and discord are laid bare as warnings, reminders of the fractures running through our human experience.\n\nFrom attachment psychologyto socio-political fault lines, Bitphr3ak dissects the narratives we live inside, challenging perception and sparking conversation.\n\nStep into the world of Bitphr3ak—where innovation confronts chaos, and every note is a signal flare.",
-      "relationship": [],
-      "visibility": "public",
-      "lastCrawledAt": "2026-11-03T00:12:55.008Z",
-      "addedAt": "2026-10-22T13:40:09.179Z"
-    },
     {
       "id": "friend-56c16b3c",
       "siteUrl": "https://lines2code.com/social",
@@ -45,8 +32,8 @@
   "endorsements": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-04T19:11:01.611Z",
+    "created": "2026-11-06T19:07:39.480Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "dXgEVuWdfjiNmRh1G1O4viJBDAYz-SPbwH3ifsrOtJurZ9tq4WvPNlr-CsUYM8A1OHz_r5ugJgdtO-ucCLVWDQ"
+    "signatureValue": "Gh6SBujRPGomdBMHLTmAdZVrKW2eRKElUleNw6a5H1huqLG-4QvlwLTJCfFlyT6XbwTfGKodwneqYqFwN1POBg"
   }
 }
