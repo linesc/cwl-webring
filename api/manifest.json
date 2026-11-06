@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-11-06T19:07:39.480Z",
+  "updatedAt": "2026-11-06T19:36:27.552Z",
   "endpoints": {
     "did": "/.well-known/did.json",
     "profile": "/api/profile.json",
@@ -22,7 +22,7 @@
       "sha256": "e2171f054087728b5892c5475cd5fd9ba917d808911d0ecaef55fc5443ce43ca"
     },
     "profile": {
-      "sha256": "561a3181258ccba347ae4f1462963e86815b73e4dfd660f5e087a0ef2d1e1113"
+      "sha256": "c51acd0712667f8eaac573f74bcf45beffbddf09c3e869af65e92f4ca9eba053"
     },
     "albums": {
       "sha256": "d690a90df8eeecc8cf9f96c8552371af572d5b1bed4c2b22967a5ba6543b31ca"
@@ -31,13 +31,13 @@
       "sha256": "039e074c3560af7fce91d10381b9a475c01a66a22e2cdabc1ba714ed858dc1b0"
     },
     "connections": {
-      "sha256": "3ce5a3e7b2753da67948f2d83e2ea294e3b5a80d4f83b71ed743088276b9e4a6"
+      "sha256": "b44501f69f278821ff9e477479bb44d20cf773a62000e16eba9d06095c20afe6"
     }
   },
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-06T19:07:39.480Z",
+    "created": "2026-11-06T19:36:27.552Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "iyV3gaRG_G8Ec9glEazJBmikpIz13IWgjLjtkjm5WCyHInko8CWzFivctHU-D4K-MnKKtgocpblW2a5_g1v2Bg"
+    "signatureValue": "Ac93Dx3RPmPlRhpLX4Zg9p9D4c1OoSBTxR8ffDtF3BHFLI4mINBS2vGbgosGP2PrOmsfJcjMxKOcicHnwIl_CQ"
   }
 }

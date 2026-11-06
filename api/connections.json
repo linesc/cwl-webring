@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-11-06T19:07:39.480Z",
+  "updatedAt": "2026-11-06T19:36:27.552Z",
   "friends": [
     {
       "id": "friend-56c16b3c",
@@ -14,7 +14,7 @@
       "bio": "Welcome to my self-contained corner of the web! Everything here is hosted as static JSON & HTML, managed locally from my Webring Studio application, and federated across my friend ring.",
       "relationship": [],
       "visibility": "public",
-      "lastCrawledAt": "2026-11-03T00:12:55.038Z",
+      "lastCrawledAt": "2026-11-06T19:33:05.776Z",
       "addedAt": "2026-10-22T13:37:44.811Z"
     }
   ],
@@ -32,8 +32,8 @@
   "endorsements": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-06T19:07:39.480Z",
+    "created": "2026-11-06T19:36:27.552Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "Gh6SBujRPGomdBMHLTmAdZVrKW2eRKElUleNw6a5H1huqLG-4QvlwLTJCfFlyT6XbwTfGKodwneqYqFwN1POBg"
+    "signatureValue": "mGhBvB_wushHhRl-18CxlAHGvegwDngM4DEItlq0gsw7NMrxF7cnDbDBhyvUQkJNYko80tnjCRBsUhB6rTaiBQ"
   }
 }
