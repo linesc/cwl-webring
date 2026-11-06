@@ -2,27 +2,12 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-11-02T00:55:39.943Z",
-  "items": [
-    {
-      "id": "item-4bfab20f",
-      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/items.json#item-item-4bfab20f",
-      "type": "comment",
-      "title": "Re: Webring Studio on GitHub",
-      "targetUrl": "https://lines2code.com/social/api/items.json#item-item-079d224a",
-      "targetAuthorUrl": "https://lines2code.com/social",
-      "targetAuthorName": "Corey Lines",
-      "category": "comment",
-      "commentary": "Testing",
-      "mediaUrl": "",
-      "tags": [],
-      "createdAt": "2026-11-02T00:55:23.824Z"
-    }
-  ],
+  "updatedAt": "2026-11-06T20:52:37.039Z",
+  "items": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-02T00:55:39.943Z",
+    "created": "2026-11-06T20:52:37.039Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "jYbtENKOD2WKKW9y1BFzVwBYahGwCDCQAH3vECNW4M5hzuAv7SkNVKQLLw4E4_oGRzqU7c59Zst3Dm_YvOkvAw"
+    "signatureValue": "RPDbCMrIyn8wiveHrm7vneS_w3IzXZ0jnH_uldlnJs6Y_UdqBHBceJtDxUD1qV-_cI9bjLhrVKekAWSrK32XDg"
   }
 }
