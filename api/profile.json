@@ -5,7 +5,7 @@
   "handle": "my-profile.local",
   "displayName": "Corey Lines",
   "tagline": "Senior Quality Engineer, Web Application Developer, Sheppard of Agents",
-  "bio": "As a Senior Quality Engineer at REDspace Inc., I have spent over 15 years embedded within the Viacom, CBS, and Paramount+ ecosystem, helping build and validate the systems that power modern streaming.\n\nMy current focus is backend quality engineering, where I support functional and automated testing for enterprise video orchestration and packaging services. Leveraging custom Java/TestNG frameworks, I validate complex API behaviors to ensure the reliability of massive, high-visibility content delivery pipelines.\n\nOver my tenure, my role has continuously evolved alongside the media landscape, backed by technical experience in web development and complex analytics integration for major brands like Comedy Central and Nickelodeon. I thrive on adaptability, deep technical problem-solving, and ensuring the seamless delivery of world-class digital experiences.",
+  "bio": "As a Senior Quality Engineer at REDspace, I have spent over 15 years embedded within the Viacom, CBS, and Paramount+ ecosystem, helping build and validate the systems that power modern streaming.\n\nMy current focus is backend quality engineering, where I support functional and automated testing for enterprise video orchestration and packaging services. Leveraging custom Java/TestNG frameworks, I validate complex API behaviors to ensure the reliability of massive, high-visibility content delivery pipelines.\n\nOver my tenure, my role has continuously evolved alongside the media landscape, backed by technical experience in web development and complex analytics integration for major brands like Comedy Central and Nickelodeon. I thrive on adaptability, deep technical problem-solving, and ensuring the seamless delivery of world-class digital experiences.",
   "location": "",
   "avatarUrl": "media/profile/avatar-2d1e87c7e5df5d3dc0cb.png",
   "bannerUrl": "https://linesc.github.io/cwl-webring/cover-image.jpeg",
@@ -83,11 +83,11 @@
     }
   ],
   "atprotoHandle": "",
-  "updatedAt": "2026-11-06T20:52:37.039Z",
+  "updatedAt": "2026-11-20T16:59:52.877Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-06T20:52:37.039Z",
+    "created": "2026-11-20T16:59:52.877Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "xdbmBAeFjEkFyFwAVt2GZ46gFDVg3NlYJFikyKZKgNg9U9J5oXIoMMcd-L9wSd5_kNNcjoH8nWFInVG48fbtDA"
+    "signatureValue": "PETnYH2YEHD6sj5jH04hoREEvjJr4xE1BmTgeTLI3lEm7mX3e1x-2OOQlZbtnHkodWucgDSBvLEIfYfpMMglAw"
   }
 }
