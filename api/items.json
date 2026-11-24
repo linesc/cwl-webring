@@ -2,12 +2,28 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://linesc.github.io/cwl-webring",
   "did": "did:web:linesc.github.io:cwl-webring",
-  "updatedAt": "2026-11-06T20:52:37.039Z",
-  "items": [],
+  "updatedAt": "2026-11-24T16:29:41.758Z",
+  "items": [
+    {
+      "id": "item-27f44161",
+      "canonicalUrl": "https://linesc.github.io/cwl-webring/api/items.json#item-item-27f44161",
+      "type": "like",
+      "title": "Midjourney Images #1",
+      "targetUrl": "https://linesc.github.io/cwl-webring/api/albums.json#photo-photo-0912fbbb",
+      "targetAuthorUrl": "https://linesc.github.io/cwl-webring",
+      "targetAuthorName": "Corey Lines",
+      "category": "photo",
+      "commentary": "",
+      "mediaUrl": "",
+      "rating": 5,
+      "tags": [],
+      "createdAt": "2026-11-24T16:29:18.620Z"
+    }
+  ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-06T20:52:37.039Z",
+    "created": "2026-11-24T16:29:41.758Z",
     "verificationMethod": "did:web:linesc.github.io:cwl-webring#key-1",
-    "signatureValue": "RPDbCMrIyn8wiveHrm7vneS_w3IzXZ0jnH_uldlnJs6Y_UdqBHBceJtDxUD1qV-_cI9bjLhrVKekAWSrK32XDg"
+    "signatureValue": "pFoIYl0W-VL_7X1q7OKNruVUnhwwvXC1PkV6T6YqfNb8a7u_EdYaC5WseoLrUnKj_FKE-PoCBTxL3j6S-ubMDw"
   }
 }
